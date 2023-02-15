@@ -1,0 +1,29 @@
+--------------------
+Best Split in depth5: [X1 < -0.227] ; Gainratio:0.918
+    left: [X1 < -0.227]
+    right: [X1 > -0.227]
+
+--------------------
+Best Split in depth4: [X2 < -0.542] ; Gainratio:0.165
+    left: [X2 < -0.542]
+    right: [X2 > -0.542]
+
+--------------------
+Best Split in depth3: [X2 < 1.270] ; Gainratio:0.205
+    left: [X2 < 1.270]
+    right: [X2 > 1.270]
+
+--------------------
+Best Split in depth2: [X2 < -0.666] ; Gainratio:0.275
+    left: [X2 < -0.666]
+    right: [X2 > -0.666]
+
+--------------------
+Best Split in depth1: [X1 < 0.822] ; Gainratio:0.407
+    left: [X1 < 0.822]
+    right: [X1 > 0.822]
+
+--------------------
+Best Split in depth0: [X1 < -0.793] ; Gainratio:0.239
+    left: [X1 < -0.793]
+    right: [X1 > -0.793]

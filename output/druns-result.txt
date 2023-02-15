@@ -1,0 +1,13 @@
+Candidate	split	[X2	<	-2.000000]	;	Gainratio:0.000000	inforgain:0.000000	splitinfo:0.000000
+Candidate	split	[X2	<	-1.000000]	;	Gainratio:0.100518	inforgain:0.044177	splitinfo:0.439497
+Candidate	split	[X2	<	0.000000]	;	Gainratio:0.055954	inforgain:0.038275	splitinfo:0.684038
+Candidate	split	[X2	<	1.000000]	;	Gainratio:0.005780	inforgain:0.004886	splitinfo:0.845351
+Candidate	split	[X2	<	2.000000]	;	Gainratio:0.001144	inforgain:0.001082	splitinfo:0.945660
+Candidate	split	[X2	<	3.000000]	;	Gainratio:0.016411	inforgain:0.016313	splitinfo:0.994030
+Candidate	split	[X2	<	4.000000]	;	Gainratio:0.049749	inforgain:0.049452	splitinfo:0.994030
+Candidate	split	[X2	<	5.000000]	;	Gainratio:0.111240	inforgain:0.105196	splitinfo:0.945660
+Candidate	split	[X2	<	6.000000]	;	Gainratio:0.236100	inforgain:0.199587	splitinfo:0.845351
+Candidate	split	[X2	<	7.000000]	;	Gainratio:0.055954	inforgain:0.038275	splitinfo:0.684038
+Candidate	split	[X2	<	8.000000]	;	Gainratio:0.430157	inforgain:0.189053	splitinfo:0.439497
+Candidate	split	[X1	<	0.000000]	;	Gainratio:0.000000	inforgain:0.000000	splitinfo:0.000000
+Candidate	split	[X1	<	0.100000]	;	Gainratio:0.100518	inforgain:0.044177	splitinfo:0.439497

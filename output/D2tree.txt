@@ -1,0 +1,149 @@
+--------------------
+Best Split in depth7: [X2 < 0.639] ; Gainratio:0.722
+    left: [X2 < 0.639]
+    right: [X2 > 0.639]
+
+--------------------
+Best Split in depth6: [X1 < 0.393] ; Gainratio:0.060
+    left: [X1 < 0.393]
+    right: [X1 > 0.393]
+
+--------------------
+Best Split in depth6: [X2 < 0.598] ; Gainratio:0.918
+    left: [X2 < 0.598]
+    right: [X2 > 0.598]
+
+--------------------
+Best Split in depth5: [X1 < 0.410] ; Gainratio:0.113
+    left: [X1 < 0.410]
+    right: [X1 > 0.410]
+
+--------------------
+Best Split in depth4: [X1 < 0.426] ; Gainratio:0.481
+    left: [X1 < 0.426]
+    right: [X1 > 0.426]
+
+--------------------
+Best Split in depth3: [X2 < 0.535] ; Gainratio:0.096
+    left: [X2 < 0.535]
+    right: [X2 > 0.535]
+
+--------------------
+Best Split in depth6: [X1 < 0.145] ; Gainratio:0.592
+    left: [X1 < 0.145]
+    right: [X1 > 0.145]
+
+--------------------
+Best Split in depth5: [X2 < 0.864] ; Gainratio:0.067
+    left: [X2 < 0.864]
+    right: [X2 > 0.864]
+
+--------------------
+Best Split in depth5: [X2 < 0.793] ; Gainratio:1.000
+    left: [X2 < 0.793]
+    right: [X2 > 0.793]
+
+--------------------
+Best Split in depth4: [X1 < 0.192] ; Gainratio:0.211
+    left: [X1 < 0.192]
+    right: [X1 > 0.192]
+
+--------------------
+Best Split in depth3: [X1 < 0.254] ; Gainratio:0.677
+    left: [X1 < 0.254]
+    right: [X1 > 0.254]
+
+--------------------
+Best Split in depth2: [X2 < 0.691] ; Gainratio:0.182
+    left: [X2 < 0.691]
+    right: [X2 > 0.691]
+
+--------------------
+Best Split in depth4: [X2 < 0.965] ; Gainratio:0.918
+    left: [X2 < 0.965]
+    right: [X2 > 0.965]
+
+--------------------
+Best Split in depth3: [X1 < 0.104] ; Gainratio:0.120
+    left: [X1 < 0.104]
+    right: [X1 > 0.104]
+
+--------------------
+Best Split in depth2: [X1 < 0.041] ; Gainratio:0.076
+    left: [X1 < 0.041]
+    right: [X1 > 0.041]
+
+--------------------
+Best Split in depth1: [X2 < 0.886] ; Gainratio:0.237
+    left: [X2 < 0.886]
+    right: [X2 > 0.886]
+
+--------------------
+Best Split in depth4: [X2 < 0.169] ; Gainratio:0.918
+    left: [X2 < 0.169]
+    right: [X2 > 0.169]
+
+--------------------
+Best Split in depth3: [X1 < 0.850] ; Gainratio:0.125
+    left: [X1 < 0.850]
+    right: [X1 > 0.850]
+
+--------------------
+Best Split in depth5: [X1 < 0.961] ; Gainratio:0.863
+    left: [X1 < 0.961]
+    right: [X1 > 0.961]
+
+--------------------
+Best Split in depth4: [X2 < 0.083] ; Gainratio:0.155
+    left: [X2 < 0.083]
+    right: [X2 > 0.083]
+
+--------------------
+Best Split in depth3: [X2 < 0.038] ; Gainratio:0.371
+    left: [X2 < 0.038]
+    right: [X2 > 0.038]
+
+--------------------
+Best Split in depth2: [X1 < 0.887] ; Gainratio:0.459
+    left: [X1 < 0.887]
+    right: [X1 > 0.887]
+
+--------------------
+Best Split in depth7: [X2 < 0.403] ; Gainratio:1.000
+    left: [X2 < 0.403]
+    right: [X2 > 0.403]
+
+--------------------
+Best Split in depth6: [X1 < 0.646] ; Gainratio:0.318
+    left: [X1 < 0.646]
+    right: [X1 > 0.646]
+
+--------------------
+Best Split in depth5: [X1 < 0.595] ; Gainratio:0.428
+    left: [X1 < 0.595]
+    right: [X1 > 0.595]
+
+--------------------
+Best Split in depth4: [X2 < 0.326] ; Gainratio:0.344
+    left: [X2 < 0.326]
+    right: [X2 > 0.326]
+
+--------------------
+Best Split in depth3: [X1 < 0.708] ; Gainratio:0.497
+    left: [X1 < 0.708]
+    right: [X1 > 0.708]
+
+--------------------
+Best Split in depth2: [X2 < 0.425] ; Gainratio:0.139
+    left: [X2 < 0.425]
+    right: [X2 > 0.425]
+
+--------------------
+Best Split in depth1: [X2 < 0.228] ; Gainratio:0.320
+    left: [X2 < 0.228]
+    right: [X2 > 0.228]
+
+--------------------
+Best Split in depth0: [X1 < 0.533] ; Gainratio:0.224
+    left: [X1 < 0.533]
+    right: [X1 > 0.533]

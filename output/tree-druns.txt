@@ -1,0 +1,95 @@
+[[2. 0. 0. 1.]] left from 1 to 1  right from 0 to 0
+[[ 1.          1.         -1.          0.54007293]] left from 0 to 1  right from 2 to 7
+[[2. 1. 7. 1.]] left from 0 to 0  right from 1 to 1
+[[1.         1.         6.         0.27401754]] left from 0 to 0  right from 1 to 2
+[[0.         1.         5.         0.23609961]] left from 0 to 7  right from 8 to 10
+[[1. 1. 1. 1.]] left from 0 to 0  right from 1 to 1
+[[0.        0.        1.        0.4459282]] left from 3 to 4  right from 0 to 2
+[[ 1.  0. 10.  1.]] left from 1 to 1  right from 0 to 0
+[[0.        1.        2.        0.4459282]] left from 0 to 3  right from 1 to 4
+[[5.       0.       0.417579 1.      ]] left from 0 to 0  right from 1 to 1
+[[4.         0.         0.426073   0.58630392]] left from 6 to 8  right from 0 to 10
+[[3.         0.         0.409972   0.87604359]] left from 0 to 59  right from 1 to 56
+[[2.         1.         0.534979   0.40466586]] left from 2 to 348  right from 0 to 349
+[[3.       1.       0.964767 1.      ]] left from 0 to 39  right from 3 to 38
+[[8.       1.       0.792752 1.      ]] left from 1 to 5  right from 0 to 4
+[[7.         0.         0.191915   0.40779039]] left from 0 to 11  right from 1 to 12
+[[6.         0.         0.254049   0.55400889]] left from 2 to 20  right from 0 to 22
+[[5.         1.         0.745406   0.34353547]] left from 0 to 32  right from 2 to 36
+[[4.        0.        0.33046   0.4566946]] left from 1 to 67  right from 0 to 66
+[[3.         1.         0.861      0.28765313]] left from 1 to 128  right from 0 to 125
+[[2.         0.         0.111076   0.29524589]] left from 5 to 165  right from 0 to 168
+[[1.         1.         0.639018   0.44864365]] left from 3 to 518  right from 0 to 516
+[[4.      0.      0.66337 1.     ]] left from 3 to 17  right from 0 to 16
+[[3.         1.         0.301105   0.57355676]] left from 2 to 89  right from 0 to 87
+[[6.       1.       0.190692 1.      ]] left from 0 to 1  right from 2 to 2
+[[5.         1.         0.169053   0.71898249]] left from 0 to 22  right from 5 to 18
+[[7.       1.       0.129295 1.      ]] left from 0 to 0  right from 1 to 2
+[[6.         0.         0.930371   0.51904386]] left from 0 to 18  right from 1 to 19
+[[5.         1.         0.037708   0.67673165]] left from 7 to 19  right from 0 to 23
+[[4.         0.         0.90482    0.40959444]] left from 0 to 46  right from 3 to 45
+[[3.         1.         0.191206   0.42046853]] left from 2 to 94  right from 0 to 93
+[[2.         0.         0.761423   0.32503365]] left from 1 to 182  right from 0 to 184
+[[3.       1.       0.474971 1.      ]] left from 3 to 12  right from 0 to 15
+[[2.         0.         0.550364   0.49712235]] left from 29 to 247  right from 0 to 295
+[[1.         1.         0.383738   0.46412625]] left from 4 to 478  right from 0 to 480
+[[0.         0.         0.533076   0.22361423]] left from 0 to 997  right from 4 to 999
+[[5.       0.       0.417579 1.      ]] left from 0 to 0  right from 1 to 1
+[[4.         0.         0.426073   0.58630392]] left from 6 to 8  right from 0 to 10
+[[3.         0.         0.409972   0.87604359]] left from 0 to 59  right from 1 to 56
+[[2.         1.         0.534979   0.40466586]] left from 2 to 348  right from 0 to 349
+[[3.       1.       0.964767 1.      ]] left from 0 to 39  right from 3 to 38
+[[8.       0.       0.191915 1.      ]] left from 1 to 5  right from 0 to 4
+[[7.         1.         0.792752   0.40779039]] left from 0 to 12  right from 1 to 11
+[[6.         0.         0.254049   0.55400889]] left from 2 to 20  right from 0 to 22
+[[5.         1.         0.745406   0.34353547]] left from 0 to 32  right from 2 to 36
+[[4.        0.        0.33046   0.4566946]] left from 1 to 67  right from 0 to 66
+[[3.         1.         0.861      0.28765313]] left from 1 to 128  right from 0 to 125
+[[2.         0.         0.111076   0.29524589]] left from 5 to 165  right from 0 to 168
+[[1.         1.         0.639018   0.44864365]] left from 3 to 518  right from 0 to 516
+[[4.      0.      0.66337 1.     ]] left from 3 to 17  right from 0 to 16
+[[3.         1.         0.301105   0.57355676]] left from 2 to 89  right from 0 to 87
+[[6.       1.       0.190692 1.      ]] left from 0 to 1  right from 2 to 2
+[[5.         1.         0.169053   0.71898249]] left from 0 to 22  right from 5 to 18
+[[7.       0.       0.927522 1.      ]] left from 1 to 2  right from 0 to 0
+[[6.         0.         0.930371   0.51904386]] left from 0 to 18  right from 1 to 19
+[[5.         1.         0.037708   0.67673165]] left from 7 to 19  right from 0 to 23
+[[4.         0.         0.90482    0.40959444]] left from 0 to 46  right from 3 to 45
+[[3.         1.         0.191206   0.42046853]] left from 2 to 94  right from 0 to 93
+[[2.         0.         0.761423   0.32503365]] left from 1 to 182  right from 0 to 184
+[[3.       1.       0.474971 1.      ]] left from 3 to 12  right from 0 to 15
+[[2.         0.         0.550364   0.49712235]] left from 29 to 247  right from 0 to 295
+[[1.         1.         0.383738   0.46412625]] left from 4 to 478  right from 0 to 480
+[[0.         0.         0.533076   0.22361423]] left from 0 to 997  right from 4 to 999
+[[5.       1.       0.597713 1.      ]] left from 1 to 1  right from 0 to 0
+[[4.         0.         0.426073   0.58630392]] left from 6 to 8  right from 0 to 10
+[[3.         0.         0.409972   0.87604359]] left from 0 to 59  right from 1 to 56
+[[2.         1.         0.534979   0.40466586]] left from 2 to 348  right from 0 to 349
+[[3.       1.       0.964767 1.      ]] left from 0 to 39  right from 3 to 38
+[[8.       1.       0.792752 1.      ]] left from 1 to 5  right from 0 to 4
+[[7.         0.         0.191915   0.40779039]] left from 0 to 11  right from 1 to 12
+[[6.         0.         0.254049   0.55400889]] left from 2 to 20  right from 0 to 22
+[[5.         1.         0.745406   0.34353547]] left from 0 to 32  right from 2 to 36
+[[4.        0.        0.33046   0.4566946]] left from 1 to 67  right from 0 to 66
+[[3.         1.         0.861      0.28765313]] left from 1 to 128  right from 0 to 125
+[[2.         0.         0.111076   0.29524589]] left from 5 to 165  right from 0 to 168
+[[1.         1.         0.639018   0.44864365]] left from 3 to 518  right from 0 to 516
+[[4.      0.      0.66337 1.     ]] left from 3 to 17  right from 0 to 16
+[[3.         1.         0.301105   0.57355676]] left from 2 to 89  right from 0 to 87
+[[6.       1.       0.190692 1.      ]] left from 0 to 1  right from 2 to 2
+[[5.         1.         0.169053   0.71898249]] left from 0 to 22  right from 5 to 18
+[[7.       0.       0.960783 1.      ]] left from 0 to 0  right from 1 to 2
+[[6.         1.         0.061886   0.51904386]] left from 0 to 17  right from 2 to 19
+[[5.         1.         0.037708   0.67673165]] left from 7 to 19  right from 0 to 23
+[[4.         0.         0.90482    0.40959444]] left from 0 to 46  right from 3 to 45
+[[3.         1.         0.191206   0.42046853]] left from 2 to 94  right from 0 to 93
+[[2.         0.         0.761423   0.32503365]] left from 1 to 182  right from 0 to 184
+[[3.       1.       0.474971 1.      ]] left from 3 to 12  right from 0 to 15
+[[2.         0.         0.550364   0.49712235]] left from 29 to 247  right from 0 to 295
+[[1.         1.         0.383738   0.46412625]] left from 4 to 478  right from 0 to 480
+[[0.         0.         0.533076   0.22361423]] left from 0 to 997  right from 4 to 999
+[[ 2.  1. -1.  1.]] left from 0 to 0  right from 1 to 1
+[[1.         1.         0.         0.54007293]] left from 0 to 1  right from 2 to 7
+[[2. 1. 8. 1.]] left from 0 to 0  right from 1 to 1
+[[1.         1.         7.         0.27401754]] left from 0 to 0  right from 1 to 2
+[[0.         1.         6.         0.23609961]] left from 0 to 7  right from 8 to 10
